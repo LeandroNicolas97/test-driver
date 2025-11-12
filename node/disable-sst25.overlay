@@ -1,0 +1,3 @@
+&sst25vf032b {
+	status="disabled";
+};
